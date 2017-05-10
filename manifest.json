@@ -3,6 +3,6 @@
   "short_name": "spotboye",
   "start_url": "./index.html",
   "display": "standalone",
-  "gcm_sender_id": "942729851821",
+  "gcm_sender_id": "955040843176",
   "gcm_user_visible_only": true
 }
